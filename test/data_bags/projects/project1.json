@@ -1,0 +1,19 @@
+{ 
+  "id":"project1", 
+  "instances": [
+    {
+      "instance": "i-000000", 
+      "users": [
+        {
+          "login": "pbp-user",
+          "group": "pbp-group",
+          "key-pub": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCosgwpGnvmR0S29IAZFN4RKu5hdMWxIL8wpdHsmP155ji0S4KA1oBAoCYAwATnZq6W8W74+RMBI3L02//8Ptsi9dBI7G1LFumBwjhvQ6RS+WRcBoxAfLg7veCsB4Kve4235/Gmmz/qgEbpMICb8X4wvPOaNQJENAQnhn7MacvCvjDEMfiNEh5/7nT1vu/CV+IY9fRaeDrdwXKmDnrZmSFGy1ihK8MSDQLho2PMnxlQ67ZVXQElu0059qQddlJP7bw4qz1gYANo/S4M+/1b9G2WfnkEYNldCwKu1utMefRbyDlY5uOmjFW6d3i5K2kBah4lZ4ysIKlCkmS2W3Xq+Jtn mark@mark-allens-computer.local",
+          "key-pri": "-----BEGIN RSA PRIVATE KEY-----\nMIIEoQIBAAKCAQEAqLIMKRp75kdEtvSAGRTeESruYXTFsSC/MKXR7Jj9eeY4tEuC\ngNaAQKAmAMAE52aulvFu+PkTASNy9Nv//D7bIvXQSOxtSxbpgcI4b0OkUvlkXAaM\nQHy4O73grAeCr3uNt+fxpps/6oBG6TCAm/F+MLzzmjUCRDQEJ4Z+zGnLwr4wxDH4\njRIef+509b7vwlfiGPX0Wng63cFypg562ZkhRstYoSvDEg0C4aNjzJ8ZUOu2VV0B\nJbtNOfakHXZST+28OKs9YGADaP0uDPv9W/Rtln55BGDZXQsCrtbrTHn0W8g5WObj\npoxVund4uStpAWoeJWeMrCCpQpJktlt16vibZwIDAQABAoH/Sc2bhGAR1K1ZYrGV\nWWPHw7sEj56G3vd0rdPeA6TrQGl4ZWijr7ooYh2ugqV/f71spJz77/EIX3ci0/1s\nAO9+78ybU0wchL2Ba0ONbSAqxCJXxesXcR8fewOXR6wBgMSNO+g90KYbUHzOiTav\nDYqZqrj/2ndWhoA7UQ+GaeffPVNB8LBA+Bn4uNEwtuS6e/hve6oAL24fa9ZLpfU3\ny0vGJy5ZJytCsr1WYKNuqvcAscBjD08pZdn5g9krRK96zyF7CD0mn2TX7IDpNhV1\n2odV7lcPy/TSGWkHrkpmHwJVlSWOahby5EmKmq+vQSJnPlnn7AbuqhP3bWb/IJL8\n92EBAoGBANqfyBMdvsawNKTrNei6nKJEzDNchRdYSkdZuLdCk1OjCldrUUThKpAk\n6dOQCGtroXrM9vsWw419b8PBAinY6Ss3F2hH5f+CMvTZGb2hkU30o8arjaB9VZLW\n7aMPjL8SPUV28I4oiiqM+Ldrypka1ZSdS4qju3nOkLWA5mZe05zvAoGBAMWJG70T\nFcOkx7pBM3GYa27Kyu8M9wGTRYfnLzZxRspT20mW9PnsUBTBWf+JZSWIIzCJF82V\ny3gKpVAYNwUMesLrXI6OFqoISFC2Lm2V10MnKrabEc+am/+im2K5tU9dA8cr6hM/\nwS22HhhLgZgt/5/DsOmYXywDKdu2cDm9l1kJAoGBAKrH5GgidVQKc6Vc5CjgFdmg\nuo9ot8LrwmKIUQY/aI0OMNbnS33uEuy1GT+eJSWc13DxSgIM30fY9ATL8h+0hTiv\n+YYJnD6De8DPEw+Sdcqaz5EzlBgJsF5brRkS3ZSo79oitnmma4AfzW6jMol1b+B/\nG3K6wom9dkeC4PiZHN9bAoGAY1wtBLUF3IwVHr3PJ5N4bpk47HeEA1nVvp9t4x+l\ncP4vLlvtS40vVtFO+LdeljtdH/vFalavqukH8DrN6g817LfArcAQ7GQQI/EPd3XI\nenHIDWQA2IE3eKWNLWKmLY5m6RdQvW/zNpAFoUjRnf99NhqT8VwAez34HxksaA7S\ngykCgYAb6QThKJkvN9SDkySElJDdFSI4Ng8iANKodkZ0AHJdz7tvfuYz/Y/Yqx8b\nD/ydnlDqiIauaztMPcAuSi4WLv3ICdTQ+ZEWz0Jqqgr4tT4clXmiifnCs5LWXLH3\nXruTcrYHsGv+ikjO+pDW3tv1uEl8Rga25S1ocrUAY6x2Gve5cw==\n-----END RSA PRIVATE KEY-----"
+        }
+      ]
+    },
+    {
+      "instance": "i-000001"
+    } 
+  ]
+}

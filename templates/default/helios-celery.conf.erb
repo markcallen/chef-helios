@@ -1,0 +1,21 @@
+#!upstart
+description "Runs helios-server"
+
+start on (local-filesystems and net-device-up IFACE!=lo)
+stop on [!12345]
+
+console log
+
+respawn limit 30 30
+
+setuid pbp-user
+setgid pbp-group
+
+chdir /srv/helios-server/current
+script
+  . venv/bin/activate 
+<% @env.each do |key, value| -%>
+  export <%= key %>=<%= value %>
+<% end %>
+  python manage.py celeryd -E -B --beat --concurrency=1
+end script

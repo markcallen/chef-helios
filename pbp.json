@@ -1,0 +1,8 @@
+{
+  "ec2": {
+    "instance": "i-000000"
+  },
+  "projectname": "project1",
+  "servername": "project1.poweredbypurple.ca"
+}
+

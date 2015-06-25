@@ -1,0 +1,7 @@
+{ 
+  "id":"mark", 
+  "ssh_keys":"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA4oznCLzMRj6npVQHg9YG65th8bRwrSh17LKjmsheT5+aV5fLtnwR1IS4d3o14ORP0+jMGufOUqYTYn6meiKTbvDAymW/olubgm1JL10TdmYJajAh0FozAXIuMx6Momw49RfkbCNEwtmqdDWStnmZlTRzUyZM2CMd3Oi/WhW32dnuIQpFMfe33cNnnfIuNXHWO9GJZ1hbfKP2P8jAg60oB6VJs8bJ3uzomo9BzjcRr3+CNzmEZowFfwRGyga11m/9Yp/GkfSUK0viuNqBSqD7akfK7gWhGCzw/1hYp50TJxNXlzR5wGVjqZHUIT8N8v0e/Zw3chR4kfbxe6W2S1XVoQ== mark@mark-allens-computer.local",
+  "gitolite_repos": ["ultyscorer"], 
+  "gitolite_repos_ro":[], 
+  "comment": "mark@markcallen.com" 
+}

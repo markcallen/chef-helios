@@ -1,0 +1,11 @@
+#!/bin/bash
+export PGUSER=postgres
+export PGHOST=localhost
+
+dropdb helios
+createdb helios
+python manage.py syncdb
+python manage.py migrate
+<% for g in @google %>
+echo "from helios_auth.models import User; User.objects.create(user_type='google',user_id='<%= g[:user_id] %>', info={'name':'<%= g[:info_name] %>'})" | python manage.py shell
+<% end %>
